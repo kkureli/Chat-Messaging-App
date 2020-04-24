@@ -1,0 +1,8 @@
+.chatPage {
+  /* background-color: rgb(238, 234, 239); */
+  display: flex;
+}
+
+.welcomeMessageChat {
+  display: flex;
+}

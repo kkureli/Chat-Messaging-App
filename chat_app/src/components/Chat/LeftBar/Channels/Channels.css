@@ -1,0 +1,17 @@
+.channels {
+  color: white;
+  margin-top: 20px;
+}
+
+.channelsTitle {
+  color: black;
+  display: flex;
+  text-align: center;
+  margin: 0 70px;
+  width: 150px;
+  margin-bottom: 10px;
+}
+
+.addChannel {
+  padding-left: 15px;
+}

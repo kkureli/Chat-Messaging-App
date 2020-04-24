@@ -1,0 +1,17 @@
+.leftBar {
+  width: 250px;
+  height: 100vh;
+  background-color: rgb(36, 112, 185);
+}
+
+.leftBar ul {
+  list-style-type: none;
+  padding-left: 0;
+  text-align: center;
+}
+
+.ulTitle,
+.ulUserName {
+  color: white !important;
+  font-size: 130%;
+}

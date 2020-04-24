@@ -1,0 +1,25 @@
+.chatTitle {
+  background-color: rgba(0, 0, 0, 0.4) !important;
+  height: 80px;
+  padding-left: 10px;
+}
+
+.chatSearchTitle {
+  display: flex;
+}
+
+.searchChat {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.searchIcon {
+}
+
+.channelName {
+  font-weight: bold;
+  font-size: 25px;
+  padding-right: 90px;
+  color: white;
+  /* height: 50px; */
+}

@@ -1,0 +1,37 @@
+.rightBar {
+  background-color: white;
+  height: 300px;
+  margin-left: 30px;
+  margin-top: 20px;
+  width: 300px;
+}
+.rightBar ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.rightBorder {
+  border: 1px solid gray;
+  margin-top: 10px;
+  height: 95%;
+  width: 280px;
+  margin-left: 10px;
+  overflow-y: auto;
+}
+
+.rightTitle {
+  font-weight: bold;
+  border-bottom: 1px solid black;
+  text-align: center;
+}
+
+.detailsTitle {
+  font-weight: bold;
+  margin-top: 10px;
+}
+.joinRoomBtn button {
+  width: 60px;
+  height: 60px;
+  font-size: 15px;
+  margin-left: 9%;
+}
